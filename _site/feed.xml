@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-12-17T21:28:36+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">PHP User Group Catania</title><subtitle>PHP User Group Catania </subtitle><entry><title type="html">Welcome back PUG Catania</title><link href="http://localhost:4000/post/event/2019/12/17/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome back PUG Catania" /><published>2019-12-17T10:57:29+01:00</published><updated>2019-12-17T10:57:29+01:00</updated><id>http://localhost:4000/post/event/2019/12/17/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/post/event/2019/12/17/welcome-to-jekyll.html">&lt;p&gt;Con questo primo post inauguriamo la riattivazione del PHP User Group di Catania.&lt;/p&gt;
+
+&lt;p&gt;L’appuntamento è per &lt;code class=&quot;highlighter-rouge&quot;&gt;Giovedì 19/12/2019&lt;/code&gt; alle ore &lt;code class=&quot;highlighter-rouge&quot;&gt;18:00&lt;/code&gt; e si parlerà delle novità nella &lt;strong&gt;release di PHP 7.4&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Un release party per riattivare una community assente da ormai troppo tempo nella nostra città.
+&lt;!--more--&gt;&lt;/p&gt;
+
+&lt;p&gt;Dopo un primo momento di Icebreak, dove Sergio Sicari introdurrà il PUG e le attività proposte per i prossimi mesi, Patrick Luca Fazzi ci illustrerà le novità dell’ultima release di PHP (7.4), il linguaggio di programmazione più usato sul web! A seguire Mirko Rapisarda ci mostrerà come scrivere codice più semplice, leggibile e testabile attraverso alcune caratteristiche funzionali del linguaggio.&lt;/p&gt;
+
+&lt;p&gt;L’evento è assolutamente gratuito e aperto a tutti, ma i posti sono limitati!!!&lt;/p&gt;
+
+&lt;p&gt;👉 &lt;a href=&quot;https://www.eventbrite.it/e/biglietti-php-user-group-catania-php-74-release-party-85072240361&quot;&gt;Link al biglietto eventbrite&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">Con questo primo post inauguriamo la riattivazione del PHP User Group di Catania. L’appuntamento è per Giovedì 19/12/2019 alle ore 18:00 e si parlerà delle novità nella release di PHP 7.4. Un release party per riattivare una community assente da ormai troppo tempo nella nostra città.</summary></entry></feed>
